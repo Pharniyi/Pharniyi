@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pharniyi
+- 👋 Hi, I’m @FANIYI TIMILEHIN ESTHER 
 - 👀 I’m interested in ...software development
 - 🌱 I’m currently learning ... software engineering
 - 💞️ I’m looking to collaborate on ...
