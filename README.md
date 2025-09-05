@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @FANIYI TIMILEHIN ESTHER 
-- 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ... software engineering
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m FANIYI TIMILEHIN ESTHER 
+- 🌱 Frontend Developer | React, TypeScript, JavaScript, Tailwind CSS | Aspiring Full-Stack Developer | B.Eng. Computer   Engineering
 - 📫 How to reach me ... faniyitimi@gmail.com
 
 <!---
